@@ -7,3 +7,5 @@ I used both MLP and CNN approach.
 # Results
 Achieved a 59% test accuracy with 600k trainable parameters using MLP
 Achieved a 84% test accuracy with 50k trainable parameters using CNN
+
+![alt text](https://github.com/zsqiii/SVHN_pred/blob/main/img/prediction.jpg)
